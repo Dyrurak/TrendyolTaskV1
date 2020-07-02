@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrendyolTaskV1", "TrendyolTaskV1\TrendyolTaskV1.csproj", "{925BDC6A-E87E-4C11-9D25-1BCA87BBD3BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925BDC6A-E87E-4C11-9D25-1BCA87BBD3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925BDC6A-E87E-4C11-9D25-1BCA87BBD3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925BDC6A-E87E-4C11-9D25-1BCA87BBD3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925BDC6A-E87E-4C11-9D25-1BCA87BBD3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E29E895-0CF4-498B-AE2A-19011F37561E}
+	EndGlobalSection
+EndGlobal
